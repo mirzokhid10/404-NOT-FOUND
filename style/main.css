@@ -1,0 +1,118 @@
+.body {
+    margin: 0;
+    background-color: #ffffff;
+}
+
+.container {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+/*navbar*/
+
+.nav {
+    height: 100px;
+    
+}
+
+.nav-brand {
+    display: inline-block;
+    font-family: 'Inconsolata';
+    font-style: bold;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: left;
+    letter-spacing: -8%;
+    color: #333333;
+    margin: 40px 0 0 0px;
+    text-decoration: none;
+}
+
+/*home*/
+
+.home {
+    margin: 100px 0px 0px 0px;
+}
+
+.home-img {
+    display: inline-block;
+    height: 550px;
+    width: 550px;
+    margin-top: 70px;
+    
+}
+
+.home-img img {
+    width: 100%;
+}
+
+.home-text {
+    float: right;
+    width: 600px;
+    height: 300px;
+}
+
+.home-text__title {
+    font-family: 'Space Mono';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    text-align: left;
+    letter-spacing: -3.5%;
+    color: #333333;
+}
+
+.home-text__subtitle {
+    height: 110px;
+    width: 381px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: left;
+    letter-spacing: -3.5%;
+    color: #4F4F4F;
+    opacity: 0.8;
+}
+
+.home-button {
+    height: 70px;
+    width: 215px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -3.5%;
+    color: #FFFfff;
+    margin-top: 50px;
+    background-color: #333333;
+    
+}
+
+/* footer*/
+.footer {
+    height: 50px;
+    width: 100%;
+    margin-top: 15rem;
+}
+
+.footer-box {
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.footer-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -3.5%;
+    color: #BDBDBD;
+}
+/* footer fineshed*/
